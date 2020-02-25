@@ -1,0 +1,6 @@
+framework module Pods_Star_mPOP {
+  umbrella header "Pods-Star mPOP-umbrella.h"
+
+  export *
+  module * { export * }
+}
